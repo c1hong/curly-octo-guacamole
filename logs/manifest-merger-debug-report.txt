@@ -1,0 +1,214 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/robot2017/Downloads/Test_android_core-kinetic/android_tutorial_teleop/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/robot2017/Downloads/Test_android_core-kinetic/android_tutorial_teleop/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/robot2017/Downloads/Test_android_core-kinetic/android_tutorial_teleop/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/robot2017/Downloads/Test_android_core-kinetic/android_tutorial_teleop/AndroidManifest.xml:2:1-30:12
+MERGED from [:android_core_components] /home/robot2017/Downloads/Test_android_core-kinetic/android_core_components/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-37:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/robot2017/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/19755f96aaf88565047fe621b9de44bb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:28.0.0] /home/robot2017/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/49093c672859d91a555bcea3f36279e2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/robot2017/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/16efa302286f605eee19597c0a3bdb4f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/robot2017/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/d50dacec7402e9f689ae796d3639fec4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/robot2017/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/c6b4386d925717a601a139cd74f2bc54/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/robot2017/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/21973e1b2ecf310c18230a9da97c1072/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/robot2017/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/ce2b67e3409d9ed633999cf37cac8c48/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/robot2017/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/55de5df9c8c302ebcdadd5abe01d7145/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/robot2017/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/3fb11f2918534dcccfca70cf1f9c8fd1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/robot2017/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/9d506073718265dd3e2de77442ca181b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/robot2017/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/6804be365113252de5be32d51ffaddd8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/robot2017/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/fd3d4fb45e2b3735412972b166d97267/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/robot2017/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/2848f04e6d89758bf950035b9b445ad1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/robot2017/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/c919e1071107a606c85044a3923f8e7e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/robot2017/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/beda6aa5d41cef58a0e72e10f8840af5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/robot2017/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/eff2c6d54fe05cecb835013b05e5844c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/robot2017/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/5569c16e7fb14e9ef9f657b47d4d6370/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/robot2017/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/989e467a919119aeb1b0861eec3c693e/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/robot2017/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/4bc3db5a582be1c0ba5eac8879fbc0bd/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/robot2017/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/7000595626ac2e64269898a248dbb57d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/robot2017/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/e00d71b697423f661bf852e8aba72d24/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/robot2017/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/294974de9b906324d7f52bb5cf3aa7fc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/robot2017/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/55dfeb4a1395e932c9a5b6fde682588f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/robot2017/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/09f3cb65484c3e333402a6a917e595d7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/robot2017/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/0ab3b1730ed0d03a6c912361f303f044/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/robot2017/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/f32eced048e2ed8c1c87cbaa8b750ede/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/robot2017/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/2a0bb0502df1b1fb58ede401457cf091/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/robot2017/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/355eae19a8131f8fa937548ef2e08c91/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/robot2017/Downloads/Test_android_core-kinetic/android_tutorial_teleop/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/robot2017/Downloads/Test_android_core-kinetic/android_tutorial_teleop/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/robot2017/Downloads/Test_android_core-kinetic/android_tutorial_teleop/AndroidManifest.xml:2:1-30:12
+	package
+		ADDED from /home/robot2017/Downloads/Test_android_core-kinetic/android_tutorial_teleop/AndroidManifest.xml:2:70-119
+		INJECTED from /home/robot2017/Downloads/Test_android_core-kinetic/android_tutorial_teleop/AndroidManifest.xml
+		INJECTED from /home/robot2017/Downloads/Test_android_core-kinetic/android_tutorial_teleop/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/robot2017/Downloads/Test_android_core-kinetic/android_tutorial_teleop/AndroidManifest.xml
+		ADDED from /home/robot2017/Downloads/Test_android_core-kinetic/android_tutorial_teleop/AndroidManifest.xml:2:1-30:12
+		INJECTED from /home/robot2017/Downloads/Test_android_core-kinetic/android_tutorial_teleop/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/robot2017/Downloads/Test_android_core-kinetic/android_tutorial_teleop/AndroidManifest.xml
+		ADDED from /home/robot2017/Downloads/Test_android_core-kinetic/android_tutorial_teleop/AndroidManifest.xml:2:1-30:12
+		INJECTED from /home/robot2017/Downloads/Test_android_core-kinetic/android_tutorial_teleop/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/robot2017/Downloads/Test_android_core-kinetic/android_tutorial_teleop/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/robot2017/Downloads/Test_android_core-kinetic/android_tutorial_teleop/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /home/robot2017/Downloads/Test_android_core-kinetic/android_tutorial_teleop/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /home/robot2017/Downloads/Test_android_core-kinetic/android_tutorial_teleop/AndroidManifest.xml:5:5-68
+MERGED from [:android_core_components] /home/robot2017/Downloads/Test_android_core-kinetic/android_core_components/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:15:5-68
+MERGED from [:android_core_components] /home/robot2017/Downloads/Test_android_core-kinetic/android_core_components/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:15:5-68
+	android:name
+		ADDED from /home/robot2017/Downloads/Test_android_core-kinetic/android_tutorial_teleop/AndroidManifest.xml:5:22-65
+application
+ADDED from /home/robot2017/Downloads/Test_android_core-kinetic/android_tutorial_teleop/AndroidManifest.xml:7:5-28:19
+MERGED from [:android_core_components] /home/robot2017/Downloads/Test_android_core-kinetic/android_core_components/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:19:5-35:19
+MERGED from [:android_core_components] /home/robot2017/Downloads/Test_android_core-kinetic/android_core_components/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:19:5-35:19
+MERGED from [com.android.support:support-compat:28.0.0] /home/robot2017/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/5569c16e7fb14e9ef9f657b47d4d6370/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/robot2017/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/5569c16e7fb14e9ef9f657b47d4d6370/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/robot2017/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/989e467a919119aeb1b0861eec3c693e/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/robot2017/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/989e467a919119aeb1b0861eec3c693e/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/robot2017/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/5569c16e7fb14e9ef9f657b47d4d6370/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /home/robot2017/Downloads/Test_android_core-kinetic/android_tutorial_teleop/AndroidManifest.xml:9:9-41
+	android:icon
+		ADDED from /home/robot2017/Downloads/Test_android_core-kinetic/android_tutorial_teleop/AndroidManifest.xml:8:9-36
+	android:allowBackup
+		ADDED from /home/robot2017/Downloads/Test_android_core-kinetic/android_tutorial_teleop/AndroidManifest.xml:10:9-35
+activity#org.ros.android.android_tutorial_teleop.MainActivity
+ADDED from /home/robot2017/Downloads/Test_android_core-kinetic/android_tutorial_teleop/AndroidManifest.xml:11:9-20:20
+	android:screenOrientation
+		ADDED from /home/robot2017/Downloads/Test_android_core-kinetic/android_tutorial_teleop/AndroidManifest.xml:14:13-50
+	android:label
+		ADDED from /home/robot2017/Downloads/Test_android_core-kinetic/android_tutorial_teleop/AndroidManifest.xml:13:13-45
+	android:name
+		ADDED from /home/robot2017/Downloads/Test_android_core-kinetic/android_tutorial_teleop/AndroidManifest.xml:12:13-80
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/robot2017/Downloads/Test_android_core-kinetic/android_tutorial_teleop/AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from /home/robot2017/Downloads/Test_android_core-kinetic/android_tutorial_teleop/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /home/robot2017/Downloads/Test_android_core-kinetic/android_tutorial_teleop/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/robot2017/Downloads/Test_android_core-kinetic/android_tutorial_teleop/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /home/robot2017/Downloads/Test_android_core-kinetic/android_tutorial_teleop/AndroidManifest.xml:18:27-74
+activity#org.ros.android.MasterChooser
+ADDED from /home/robot2017/Downloads/Test_android_core-kinetic/android_tutorial_teleop/AndroidManifest.xml:21:9-66
+MERGED from [:android_core_components] /home/robot2017/Downloads/Test_android_core-kinetic/android_core_components/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:22:9-26:54
+MERGED from [:android_core_components] /home/robot2017/Downloads/Test_android_core-kinetic/android_core_components/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:22:9-26:54
+	android:label
+		ADDED from [:android_core_components] /home/robot2017/Downloads/Test_android_core-kinetic/android_core_components/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:24:13-45
+	android:launchMode
+		ADDED from [:android_core_components] /home/robot2017/Downloads/Test_android_core-kinetic/android_core_components/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:25:13-42
+	android:theme
+		ADDED from [:android_core_components] /home/robot2017/Downloads/Test_android_core-kinetic/android_core_components/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:26:13-51
+	android:name
+		ADDED from /home/robot2017/Downloads/Test_android_core-kinetic/android_tutorial_teleop/AndroidManifest.xml:21:19-63
+service#org.ros.android.NodeMainExecutorService
+ADDED from /home/robot2017/Downloads/Test_android_core-kinetic/android_tutorial_teleop/AndroidManifest.xml:23:9-27:19
+MERGED from [:android_core_components] /home/robot2017/Downloads/Test_android_core-kinetic/android_core_components/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:28:9-34:19
+MERGED from [:android_core_components] /home/robot2017/Downloads/Test_android_core-kinetic/android_core_components/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:28:9-34:19
+	tools:ignore
+		ADDED from [:android_core_components] /home/robot2017/Downloads/Test_android_core-kinetic/android_core_components/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:30:13-43
+	android:name
+		ADDED from /home/robot2017/Downloads/Test_android_core-kinetic/android_tutorial_teleop/AndroidManifest.xml:23:18-72
+intent-filter#action:name:org.ros.android.NodeMainExecutorService
+ADDED from /home/robot2017/Downloads/Test_android_core-kinetic/android_tutorial_teleop/AndroidManifest.xml:24:13-26:29
+action#org.ros.android.NodeMainExecutorService
+ADDED from /home/robot2017/Downloads/Test_android_core-kinetic/android_tutorial_teleop/AndroidManifest.xml:25:17-82
+	android:name
+		ADDED from /home/robot2017/Downloads/Test_android_core-kinetic/android_tutorial_teleop/AndroidManifest.xml:25:25-79
+uses-sdk
+INJECTED from /home/robot2017/Downloads/Test_android_core-kinetic/android_tutorial_teleop/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/robot2017/Downloads/Test_android_core-kinetic/android_tutorial_teleop/AndroidManifest.xml
+INJECTED from /home/robot2017/Downloads/Test_android_core-kinetic/android_tutorial_teleop/AndroidManifest.xml
+MERGED from [:android_core_components] /home/robot2017/Downloads/Test_android_core-kinetic/android_core_components/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:8:5-10:41
+MERGED from [:android_core_components] /home/robot2017/Downloads/Test_android_core-kinetic/android_core_components/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/robot2017/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/19755f96aaf88565047fe621b9de44bb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/robot2017/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/19755f96aaf88565047fe621b9de44bb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /home/robot2017/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/49093c672859d91a555bcea3f36279e2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /home/robot2017/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/49093c672859d91a555bcea3f36279e2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/robot2017/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/16efa302286f605eee19597c0a3bdb4f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/robot2017/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/16efa302286f605eee19597c0a3bdb4f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/robot2017/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/d50dacec7402e9f689ae796d3639fec4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/robot2017/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/d50dacec7402e9f689ae796d3639fec4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/robot2017/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/c6b4386d925717a601a139cd74f2bc54/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/robot2017/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/c6b4386d925717a601a139cd74f2bc54/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/robot2017/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/21973e1b2ecf310c18230a9da97c1072/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/robot2017/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/21973e1b2ecf310c18230a9da97c1072/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/robot2017/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/ce2b67e3409d9ed633999cf37cac8c48/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/robot2017/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/ce2b67e3409d9ed633999cf37cac8c48/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/robot2017/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/55de5df9c8c302ebcdadd5abe01d7145/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/robot2017/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/55de5df9c8c302ebcdadd5abe01d7145/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/robot2017/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/3fb11f2918534dcccfca70cf1f9c8fd1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/robot2017/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/3fb11f2918534dcccfca70cf1f9c8fd1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/robot2017/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/9d506073718265dd3e2de77442ca181b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/robot2017/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/9d506073718265dd3e2de77442ca181b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/robot2017/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/6804be365113252de5be32d51ffaddd8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/robot2017/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/6804be365113252de5be32d51ffaddd8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/robot2017/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/fd3d4fb45e2b3735412972b166d97267/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/robot2017/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/fd3d4fb45e2b3735412972b166d97267/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/robot2017/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/2848f04e6d89758bf950035b9b445ad1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/robot2017/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/2848f04e6d89758bf950035b9b445ad1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/robot2017/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/c919e1071107a606c85044a3923f8e7e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/robot2017/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/c919e1071107a606c85044a3923f8e7e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/robot2017/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/beda6aa5d41cef58a0e72e10f8840af5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/robot2017/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/beda6aa5d41cef58a0e72e10f8840af5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/robot2017/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/eff2c6d54fe05cecb835013b05e5844c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/robot2017/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/eff2c6d54fe05cecb835013b05e5844c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/robot2017/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/5569c16e7fb14e9ef9f657b47d4d6370/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/robot2017/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/5569c16e7fb14e9ef9f657b47d4d6370/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/robot2017/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/989e467a919119aeb1b0861eec3c693e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/robot2017/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/989e467a919119aeb1b0861eec3c693e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/robot2017/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/4bc3db5a582be1c0ba5eac8879fbc0bd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/robot2017/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/4bc3db5a582be1c0ba5eac8879fbc0bd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/robot2017/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/7000595626ac2e64269898a248dbb57d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/robot2017/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/7000595626ac2e64269898a248dbb57d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/robot2017/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/e00d71b697423f661bf852e8aba72d24/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/robot2017/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/e00d71b697423f661bf852e8aba72d24/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/robot2017/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/294974de9b906324d7f52bb5cf3aa7fc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/robot2017/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/294974de9b906324d7f52bb5cf3aa7fc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/robot2017/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/55dfeb4a1395e932c9a5b6fde682588f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/robot2017/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/55dfeb4a1395e932c9a5b6fde682588f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/robot2017/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/09f3cb65484c3e333402a6a917e595d7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/robot2017/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/09f3cb65484c3e333402a6a917e595d7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/robot2017/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/0ab3b1730ed0d03a6c912361f303f044/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/robot2017/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/0ab3b1730ed0d03a6c912361f303f044/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/robot2017/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/f32eced048e2ed8c1c87cbaa8b750ede/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/robot2017/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/f32eced048e2ed8c1c87cbaa8b750ede/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/robot2017/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/2a0bb0502df1b1fb58ede401457cf091/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/robot2017/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/2a0bb0502df1b1fb58ede401457cf091/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/robot2017/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/355eae19a8131f8fa937548ef2e08c91/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/robot2017/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/355eae19a8131f8fa937548ef2e08c91/AndroidManifest.xml:20:5-44
+INJECTED from /home/robot2017/Downloads/Test_android_core-kinetic/android_tutorial_teleop/AndroidManifest.xml
+INJECTED from /home/robot2017/Downloads/Test_android_core-kinetic/android_tutorial_teleop/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/robot2017/Downloads/Test_android_core-kinetic/android_tutorial_teleop/AndroidManifest.xml
+		ADDED from /home/robot2017/Downloads/Test_android_core-kinetic/android_tutorial_teleop/AndroidManifest.xml
+		INJECTED from /home/robot2017/Downloads/Test_android_core-kinetic/android_tutorial_teleop/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/robot2017/Downloads/Test_android_core-kinetic/android_tutorial_teleop/AndroidManifest.xml
+		ADDED from /home/robot2017/Downloads/Test_android_core-kinetic/android_tutorial_teleop/AndroidManifest.xml
+		INJECTED from /home/robot2017/Downloads/Test_android_core-kinetic/android_tutorial_teleop/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [:android_core_components] /home/robot2017/Downloads/Test_android_core-kinetic/android_core_components/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from [:android_core_components] /home/robot2017/Downloads/Test_android_core-kinetic/android_core_components/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:12:22-78
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [:android_core_components] /home/robot2017/Downloads/Test_android_core-kinetic/android_core_components/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:13:5-76
+	android:name
+		ADDED from [:android_core_components] /home/robot2017/Downloads/Test_android_core-kinetic/android_core_components/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:13:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from [:android_core_components] /home/robot2017/Downloads/Test_android_core-kinetic/android_core_components/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:14:5-76
+	android:name
+		ADDED from [:android_core_components] /home/robot2017/Downloads/Test_android_core-kinetic/android_core_components/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:14:22-73
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from [:android_core_components] /home/robot2017/Downloads/Test_android_core-kinetic/android_core_components/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:16:5-78
+	android:name
+		ADDED from [:android_core_components] /home/robot2017/Downloads/Test_android_core-kinetic/android_core_components/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:16:22-75
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [:android_core_components] /home/robot2017/Downloads/Test_android_core-kinetic/android_core_components/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:17:5-77
+	android:name
+		ADDED from [:android_core_components] /home/robot2017/Downloads/Test_android_core-kinetic/android_core_components/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:17:22-74
